@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public static void Main()
         {
+            int i = 0;
             //shapes s = new shapes();
             // rectangle s = new rectangle(); //static polymorphism 
             //s.Acceptdetails();
