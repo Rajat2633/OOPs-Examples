@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\bin\Debug\net5.0\secondappthroughcmd.exe
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\bin\Debug\net5.0\secondappthroughcmd.deps.json
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\bin\Debug\net5.0\secondappthroughcmd.runtimeconfig.json
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\bin\Debug\net5.0\secondappthroughcmd.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\bin\Debug\net5.0\secondappthroughcmd.dll
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\bin\Debug\net5.0\ref\secondappthroughcmd.dll
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\bin\Debug\net5.0\secondappthroughcmd.pdb
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.dll
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\ref\secondappthroughcmd.dll
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.pdb
+C:\Users\Admin\Desktop\Training\day2 oops\secondappthroughcmd\obj\Debug\net5.0\secondappthroughcmd.genruntimeconfig.cache
